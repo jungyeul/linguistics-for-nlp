@@ -12,8 +12,8 @@ CSE599 Linguistics for NLP at UW, Winter 2020 (10-11:20AM on Mon/Wed, Loew Hall)
 |Week 5: Feb 3-5    | Universal Dependencies |[slides]|
 |Week 6: Feb 10-12  | UCCA & SDP & EDS |[slides]|
 |Week 7: Feb 19     | Universal Morphological Reinflection |[slides]|
-|Week 8: Feb 24-26  | WordNet & EuroWordNet & WOLF (WordNet libre du Français) |[slides]|
-|Week 9: Mar 2-4    | CCG(bank) & TAG(bank) |[slides]|
+|Week 8: Feb 24-26  | WordNet|[slides]|
+|Week 9: Mar 2-4    | CCG & TAG |[slides]|
 |Week 10: Mar 9-11  | recap ||
 
 
