@@ -4,7 +4,7 @@ CSE599 Linguistics for NLP at UW, Winter 2020 (10-11:20AM on Mon/Wed, Loew Hall)
 
 | Date |	Description	 |Course Materials |
 | ------------ | ------------ | ------------  |
-|  | **introduction** | [slides]  |
+|  | introduction| [slides]  |
 |Week 1: Jan 6-8 | Penn Treebank |Suggested Readings:  <ul><li>[[Building a Large Annotated Corpus of English: The Penn Treebank](https://www.aclweb.org/anthology/J93-2004/)]</li><li>[[The Penn Treebank: An Overview](https://link.springer.com/chapter/10.1007/978-94-010-0201-1_1)]</li></ul> [slides]|
 |Week 2: Jan 13-15     | Proposition Bank (PropBank) & IBM Universal Proposition Banks |Suggested Readings:  <ul><li>[[The Proposition Bank: An Annotated Corpus of Semantic Roles](https://www.aclweb.org/anthology/J05-1004/)]</li></ul>[slides]|
 |Week 3: Jan 22     | AMR  |Suggested Readings:  <ul><li>[[Abstract Meaning Representation for Sembanking](https://www.aclweb.org/anthology/W13-2322/)]</li></ul>[slides]|
