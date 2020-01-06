@@ -1,6 +1,6 @@
 # linguistics-for-nlp
 
-CSE599 Linguistics for NLP at UW, Winter 2020 (10-11:20AM on Mon/Wed, Loew Hall)
+CSE599 Linguistics for NLP at UW, Winter 2020 (10-11:20AM on Mon/Wed, Loew Hall 105)
 
 | Date |	Description	 |Course materials |
 | ------------ | ------------ | ------------  |
