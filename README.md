@@ -15,5 +15,3 @@ CSE599 Linguistics for NLP at UW, Winter 2020 (10-11:20AM on Mon/Wed, Loew Hall 
 |Week 8: Feb 24-26  | WordNet|[slides] |
 |Week 9: Mar 2-4    | CCG & TAG | [slides] |
 |Week 10: Mar 9-11  | recap | |
-
-
