@@ -2,6 +2,8 @@
 
 CSE599 Linguistics for NLP at UW, Winter 2020 (10-11:20AM on Mon/Wed, Loew Hall 105)
 
+http://faculty.washington.edu/jungyeul/cse599.html at UW
+
 | Date |	Description	 |Course materials |
 | ------------ | ------------ | ------------  |
 |  | introduction & syllabus | [[syllabus](https://www.overleaf.com/read/rmgmskbgtzjg)] |
